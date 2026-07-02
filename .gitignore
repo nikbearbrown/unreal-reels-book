@@ -1,0 +1,15 @@
+# Build output (regenerable)
+output/
+# Generated lecture drafts (silent-mode output — regenerable from chapters/)
+lectures/
+*.epub
+*.html
+*.pdf
+
+# Local secrets
+.env
+
+# OS / editor cruft
+.DS_Store
+*.swp
+__pycache__/
